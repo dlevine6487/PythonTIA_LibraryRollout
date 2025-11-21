@@ -1,0 +1,10 @@
+# Development dependencies
+black
+flake8
+isort
+pytest
+python-dotenv
+
+# Runtime dependencies
+# Note: 'siemens_tia_scripting' is a proprietary library and must be installed manually or available in the environment.
+# tkinter is usually included in standard Python installations.
